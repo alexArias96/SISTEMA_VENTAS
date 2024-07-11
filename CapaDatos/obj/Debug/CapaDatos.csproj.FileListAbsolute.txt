@@ -1,0 +1,9 @@
+C:\Users\licda\OneDrive\Documentos\PROYECTOS_C_SHARP\Sistema_Ventas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\licda\OneDrive\Documentos\PROYECTOS_C_SHARP\Sistema_Ventas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\licda\OneDrive\Documentos\PROYECTOS_C_SHARP\Sistema_Ventas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\licda\OneDrive\Documentos\PROYECTOS_C_SHARP\Sistema_Ventas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\licda\OneDrive\Documentos\PROYECTOS_C_SHARP\Sistema_Ventas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\licda\OneDrive\Documentos\PROYECTOS_C_SHARP\Sistema_Ventas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\licda\OneDrive\Documentos\PROYECTOS_C_SHARP\Sistema_Ventas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\licda\OneDrive\Documentos\PROYECTOS_C_SHARP\Sistema_Ventas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\licda\OneDrive\Documentos\PROYECTOS_C_SHARP\Sistema_Ventas\CapaDatos\obj\Debug\CapaDatos.pdb
